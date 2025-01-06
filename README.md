@@ -21,6 +21,8 @@ This repository contains the common variant data identified by both GSAlign and 
 - **Variant identification:** Variant identified using GSAlign, SyRI, and SyMAP
 - **Annotation:** Variants were annotated using in-house Python script
 
+**The manuscript has been preprinted:** https://www.biorxiv.org/content/10.1101/2024.12.09.627532v1
+
 - ## Author
 
 **Ragothaman M Yennamalli**  
