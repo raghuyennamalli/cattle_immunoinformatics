@@ -1,5 +1,8 @@
-# cattle_immunoinformatics
-# Variant Data for "Genetic basis of immunity in Indian cattle as revealed by comparative analysis of Bos genome"
+# Data for "Genetic basis of immunity in Indian cattle as revealed by comparative analysis of Bos genome"
+
+Menaka Thambiraja1, Shukkruthi K. Iyengar1$, Brintha Satishkumar1$, Sai Rohith Kavuru1$, Aakanksha Katari1$, Dheer Singh2, Ragothaman M. Yennamalli1*, & Suneel K. Onteru2*
+1Department of Bioinformatics, School of Chemical and Biotechnology, SASTRA Deemed to be University, Thanjavur, India. 2Molecular Endocrinology, Functional Genomics and Systems Biology Laboratory, Animal Biochemistry Division, National Dairy Research Institute, Karnal, India. *E-mail: ragothaman@scbt.sastra.edu
+$ Equal contribution
 
 ## Description
 This repository contains the common variant data identified by both GSAlign and SyRI tool associated with the manuscript titled "Genetic basis of immunity in Indian cattle as revealed by comparative analysis of Bos genome", submitted to Scientific Reports. The data represents genomic variations identified between _Bos indicus_ (Nelore breed) and _Bos taurus_ (Hereford breed) with focusing on identifying significant immune genes marker in indicine (Indian) cattle, as indicine cattle have inherent disease resistance capability in compared to taurine cattle (Exotic) .
