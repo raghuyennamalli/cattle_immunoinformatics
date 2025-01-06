@@ -7,9 +7,9 @@ This repository contains the common variant data identified by both GSAlign and 
 ## Contents
 - `GSAlign SyRI common variants`: The folder contain the variation (such as Insertion, Deletion, and Substitution) data (as CSV file) on chromosome wise, identified between Herefored (Reference) and Nelore breed (Query).
 - `Common Deletion variant in immune-related genes, Common Insertion variant in immune-related genes, and Common Substitution variant in immune-related genes`: This CSV file containing the common variation present only in the immune-related genes. (The immune genes identified using InnateDB database and keyword-search)
-- `Gene Extraction and Gene Extraction QTL mapping.py`: This Python script is used to extract the genes have common chromosomsal variation and its associated QTLs in Hereford breed
+- `Gene Extraction and Gene Extraction QTL mapping.py`: This Python script is used to extract the genes have common chromosomsal variation in Nelore breed and its associated QTLs in Hereford breed (as QTLs for Nelore breed is not available)
 - `SyMAP HitID60`: This CSV file containing the genes have low sequence similarity (HIT:less than 60%) while comparing the whole genome sequence of the Hereford and Nelore breed using SyMAP tool
-- `SyMAP Chromosomal1_X variant`:This is the output CSV file obtained from SyMAP tool while comparing the whole genome sequence of the Hereford and Nelore breed    
+- `SyMAP Chromosomal1_X variant`: This is the output CSV file obtained from SyMAP tool while comparing the whole genome sequence of the Hereford and Nelore breed    
 - `README.md`: Information about the variant data obtained from the pipeline we developed.
 
 ## File Information
