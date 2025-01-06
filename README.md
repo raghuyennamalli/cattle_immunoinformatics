@@ -25,8 +25,7 @@ Senior Assitant Professor,
 Department of Bioinformatics,
 School of Chemical and Biotechnolgy,
 SASTRA Deemed University 
-ragothaman@scbt.sastra.edu
-Your ORCID ID: 0000-0002-3327-1582
-GitHub Profile: https://github.com/raghuyennamalli
+Email: ragothaman@scbt.sastra.edu
+ORCID ID: 0000-0002-3327-1582
 
 For any questions or further information, feel free to contact me at ragothaman@scbt.sastra.edu.
