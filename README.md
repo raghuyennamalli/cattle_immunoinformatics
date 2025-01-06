@@ -14,7 +14,7 @@ This repository contains the common variant data identified by both GSAlign and 
 
 ## File Information
 - **Format:** Variant data in CSV format
-- **Data Source:**The whole-genome assembly data were downloaded from the NCBI in both GenBank and FASTA formats for the three breeds, namely Nelore (Accession ID: GCA_000247795.2), Gir (Accession ID: GCA_002933975.1), and Hereford (Accession ID: GCA_002263795.3)
+- **Data Source:** The whole-genome assembly data were downloaded from the NCBI in both GenBank and FASTA formats for the three breeds, namely Nelore (Accession ID: GCA_000247795.2), Gir (Accession ID: GCA_002933975.1), and Hereford (Accession ID: GCA_002263795.3)
 - **Variant identification:** Variant identified using GSAlign, SyRI, and SyMAP
 - **Annotation:** Variants were annotated using in-house Python script
 
