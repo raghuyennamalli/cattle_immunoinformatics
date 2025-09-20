@@ -5,7 +5,7 @@ Menaka Thambiraja1, Shukkruthi K. Iyengar1$, Brintha Satishkumar1$, Sai Rohith K
 $ Equal contribution
 
 ## Description
-This repository contains the genomic variants such as single nucleotide variations (SNV), insertions, and deletions identified GATK tool associated with the manuscript titled "Genetic basis of immunity in Indian cattle as revealed by comparative analysis of Bos genome", submitted to Scientific Reports. The data represent genomic variations identified in _Bos indicus_ (Nelore breed, n=14) and _Bos indicus_ (Gir breed, n=20) with a focus on identifying genomic variation located on the immune-related genes, on the basis that indicine cattle have inherent disease resistance capability compared to taurine cattle (Exotic breed).
+This repository contains the genomic variants, such as single-nucleotide variations (SNV), insertions, and deletions identified by the GATK tool associated with the manuscript titled "Genetic basis of immunity in Indian cattle as revealed by comparative analysis of the Bos genome", submitted to Scientific Reports. The data represent genomic variations identified in _Bos indicus_ (Nelore breed, n=14) and _Bos indicus_ (Gir breed, n=20) with a focus on identifying genomic variation located on the immune-related genes, on the basis that indicine cattle have inherent disease resistance capability compared to taurine cattle (Exotic breed).
 
 ## Contents
 - `GSAlign SyRI common variants`: The folder contain the variation (such as Insertion, Deletion, and Substitution) data (as CSV file) on chromosome wise, identified between Herefored (Reference) and Nelore breed (Query).
